@@ -1,0 +1,12 @@
+[submodule "BiggGL/Vendor/glad"]
+	path = BiggGL/Vendor/glad
+	url = https://github.com/Dav1dde/glad.git
+	branch = c
+[submodule "BiggGL/Vendor/glfw"]
+	path = BiggGL/Vendor/glfw
+	url = https://github.com/glfw/glfw.git
+	branch = master
+[submodule "BiggGL/Vendor/glm"]
+	path = BiggGL/Vendor/glm
+	url = https://github.com/g-truc/glm.git
+	branch = master
